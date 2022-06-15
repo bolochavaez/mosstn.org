@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## MOSS
 
-You can use the [editor on GitHub](https://github.com/bolochavaez/mosstn.org/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+maryville opens source software
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Who are we?
 
-### Markdown
+MOSS is a Linux/Freebsd user group that meets once a month.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# When
 
-```markdown
-Syntax highlighted code block
+The group meets the final tuesday of every month at 6pm.
 
-# Header 1
-## Header 2
-### Header 3
+# Where
 
-- Bulleted
-- List
+Our first meeting will be entirely virtual and hosted in our discord.
+After the first meeting our regular spot will be in the Blount Country Public Library
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Upcoming Events
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# Links
 
-### Jekyll Themes
+**Meetup**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bolochavaez/mosstn.org/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[MOSS](https://www.meetup.com/maryville-open-source-software/)
