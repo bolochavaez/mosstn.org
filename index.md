@@ -24,3 +24,7 @@ After the first meeting our regular spot will be in the Blount Country Public Li
 **Meetup**
 
 [MOSS](https://www.meetup.com/maryville-open-source-software/)
+
+**Discord**
+
+[Discord](https://discord.gg/Cx3R9rhBHK)
