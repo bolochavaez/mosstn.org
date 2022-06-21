@@ -18,6 +18,9 @@ After the first meeting our regular spot will be in the Blount Country Public Li
 
 # Upcoming Events
 
+**First offical online meeting**
+
+Tuesday June 28th 2022  6pm EST. Hosted in our discord server.
 
 # Links
 
