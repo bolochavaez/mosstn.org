@@ -1,6 +1,6 @@
 ## MOSS
 
-maryville opens source software
+maryville open source software
 
 # Who are we?
 
