@@ -15,12 +15,18 @@ The group meets the final tuesday of every month at 6pm.
 Our first meeting will be entirely virtual and hosted in our discord.
 After the first meeting our regular spot will be in the Blount Country Public Library
 
-
-# Upcoming Events
+# Past Events
 
 **First offical online meeting**
 
 Tuesday June 28th 2022  6pm EST. Hosted in our discord server.
+
+# Upcoming Events
+
+**KVM installfest / LAN party**
+
+Tuesday July 26th 2022  6pm EST. Blount County Library, Learning Lab.
+508 N. Cusick Street, 37804, Maryville TN
 
 # Links
 
